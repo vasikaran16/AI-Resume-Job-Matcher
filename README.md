@@ -6,7 +6,7 @@ The application identifies matching skills, missing skills, calculates an overal
 
 ## 🚀 Live Demo
 
-Coming soon...
+[Open the AI Resume & Job Description Matcher](https://ai-resume-job-matcher-cdyx5sjzhe8ks3xrork6ck.streamlit.app/)
 
 ## 📌 Features
 
